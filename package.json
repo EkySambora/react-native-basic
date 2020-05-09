@@ -8,7 +8,7 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "emulator-android" : "~/Library/Android/sdk/emulator/emulator -avd Pixel_2_API_28" 
+    "emulator-android" : "~/Library/Android/sdk/emulator/emulator -avd flutter_emulator" 
   },
   "dependencies": {
     "react": "16.11.0",
