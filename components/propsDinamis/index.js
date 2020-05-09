@@ -25,7 +25,7 @@ const Story = (props) => {
 const PropsDinamis = () => {
     return(
         <View>
-            <Text style={{textAlign:"center", fontSize:20, textDecorationLine:"underline"}}>Mater Props Dinamis</Text>
+            <Text style={{textAlign:"center", fontSize:20, textDecorationLine:"underline"}}>Belajar React Native</Text>
             <ScrollView horizontal>
                 <View style={{flexDirection:'row'}}>
                     <Story title="Judul Satu" img="https://picsum.photos/200/300" />
